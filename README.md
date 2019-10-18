@@ -1,2 +1,16 @@
-# Waifus
-# ChaoticNature.github.io
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Waifus</title>
+	<link rel="stylesheet" type="text/css" href="styles\prueba.css">
+</head>
+<body>
+	<h1>Las Waifus</h1>
+	<p>Las waifus son vida, especialmente si tu waifu es una <span><strong>loli</strong></span> uwu</p> <br>
+	<img src="imagenes\loli-atan.jpg" alt="Imagen de una loli kawaii" height="300" width="200"> <br>
+	<p>Aun que las waifus <span><strong>albinas</strong></span> tambien son bastantes bonitas owo</p> <br>
+	<img src="imagenes\albina.jpg" alt="Imagen de una monita china albina" height="300" width="200"> <br>
+<button>Cambiar de usuario</button><script src="scripts/main.js"></script>
+</body>
+</html>
